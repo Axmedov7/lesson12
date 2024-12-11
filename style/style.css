@@ -1,0 +1,30 @@
+span{
+    background-color: brown;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.in-box{
+    font-size: large;
+    text-align: center;
+    background-color: aqua;
+    margin: 25px;
+}
+.inbox{
+    text-align: center;
+    margin-top: 20px;
+    font-size: large;
+    background-color: aqua;
+    margin: 25px;
+}
+.bigbox{
+    background-color: black;
+    border: 5px solid red;
+    margin-left: 480px;
+    margin-right: 480px;
+
+}
+body{
+    background-color: rgb(34, 67, 116);
+}
